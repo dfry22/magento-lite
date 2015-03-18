@@ -241,7 +241,7 @@
             <package>
                 <area>frontend</area>
                 <default_theme>default</default_theme>
-                <name>default</name>
+                <name>base</name>
                 <theme>default</theme>
                 <translate>default</translate>
             </package>
